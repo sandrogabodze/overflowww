@@ -1,0 +1,10 @@
+div {
+    width: 230px;
+    height: 230px;
+    border: 2px solid; 
+    overflow-x: scroll;
+}
+
+p {
+    color: black;
+}
